@@ -1,0 +1,14 @@
+{
+  "name": "compose-filters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sven SAULEAU",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  }
+}
